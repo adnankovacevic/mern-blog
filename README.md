@@ -4,7 +4,7 @@ A simple web application that allows users to register, log in, and create blog 
 
 ## Technologies and Packages Used
 
-- Frontend: React.js
+- Frontend: React.js with Tailwind CSS
 - Backend: Node.js, Express.js
 - Database: MongoDB with Mongoose
 - Authentication: Bcrypt.js, JSON Web Tokens (JWT)
